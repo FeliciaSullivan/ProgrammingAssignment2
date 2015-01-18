@@ -1,7 +1,7 @@
 ## The following function — makeCasheMatrix and cacheSolve all for the 
 ## creation and caching of the inverse of a matrix.  The functions work
 ## to solve computation time for complex calculations that may be used 
-## frequently. Both functions used the structure proved in the example exercise
+## frequently. Both functions used the structure provided in the example exercise
 ## in the R Programming course on Coursera - https://class.coursera.org/rprog-010/human_grading/view/courses/973491/assessments/3/submissions 
 
 
